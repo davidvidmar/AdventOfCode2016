@@ -3,15 +3,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>3354684b-ae4e-4869-8983-838b6661b645</ProjectGuid>
+    <ProjectGuid>f91be495-d6fc-4771-974e-16790e7bc978</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Day_2.py</StartupFile>
+    <StartupFile>Day_5.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>02</Name>
-    <RootNamespace>02</RootNamespace>
+    <Name>Day 5</Name>
+    <RootNamespace>Day 5</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -22,19 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="day2.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="part1.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="part2.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="test.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Day_2.py" />
+    <Compile Include="Day_5.py" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
