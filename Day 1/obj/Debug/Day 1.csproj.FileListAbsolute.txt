@@ -1,6 +1,0 @@
-C:\david\OneDrive\Projects\AdventOfCode\AdventOfCode2016\Day 1\bin\Debug\AdventOfCode.exe.config
-C:\david\OneDrive\Projects\AdventOfCode\AdventOfCode2016\Day 1\bin\Debug\AdventOfCode.exe
-C:\david\OneDrive\Projects\AdventOfCode\AdventOfCode2016\Day 1\bin\Debug\AdventOfCode.pdb
-C:\david\OneDrive\Projects\AdventOfCode\AdventOfCode2016\Day 1\obj\Debug\Day 1.csprojResolveAssemblyReference.cache
-C:\david\OneDrive\Projects\AdventOfCode\AdventOfCode2016\Day 1\obj\Debug\AdventOfCode.exe
-C:\david\OneDrive\Projects\AdventOfCode\AdventOfCode2016\Day 1\obj\Debug\AdventOfCode.pdb
