@@ -1,3 +1,8 @@
+#
+# Avent of Code 2016, Day 3
+# http://adventofcode.com/2016/day/3
+#
+
 def check(a, b, c):
     return (a < (b + c)) and (b < (a + c)) and (c < (a + b))        
 
