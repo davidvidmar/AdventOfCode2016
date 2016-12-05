@@ -16,7 +16,7 @@ class Decoder:
     
     def Decode(self, input):
 
-        print(self.r[self.y][self.x])
+        #print(self.r[self.y][self.x])
 
         for c in input:
             if (c == 'U'):
@@ -27,6 +27,6 @@ class Decoder:
                 if (self.x > self.lb[self.y]): self.x = self.x - 1;
             elif (c == 'R'):
                 if (self.x < self.rb[self.y]): self.x = self.x + 1;
-            print(c, self.r[self.y][self.x])        
+            #print(c, self.r[self.y][self.x])        
 
         return self.r[self.y][self.x]

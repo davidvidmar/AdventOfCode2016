@@ -6,6 +6,6 @@ import part2
 
 print("Advent of Code - Day 2 - David Vidmar\n")
 
-#print(test.Process());
-#print(part1.Process());
+print(test.Process());
+print(part1.Process());
 print(part2.Process());

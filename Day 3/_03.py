@@ -28,7 +28,7 @@ def part1():
 
 def part2():
 
-    input = open("input.txt", "r") 
+    input = open("data\input.txt", "r") 
 
     count = 0
     good = 0
@@ -47,7 +47,7 @@ def part2():
             for j in range(0, 3):                
                 if check(t[j][0], t[j][1], t[j][2]):                                                
                     good = good + 1
-                    print(t[j][0], t[j][1], t[j][2])                    
+                    #print(t[j][0], t[j][1], t[j][2])                    
             i = 0
         else:
             i = i + 1
@@ -56,5 +56,5 @@ def part2():
     
     print("part 2: ", good, "/", count)
 
-#part1()
+part1()
 part2()
