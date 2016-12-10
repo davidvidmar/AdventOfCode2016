@@ -82,7 +82,7 @@ with open("data\input.txt") as f:
     countTLS = 0
     countSSL = 0
 
-    for line in f:        
+    for line in f:
         if checkTLS(line): countTLS += 1
         if checkSSL(line): countSSL += 1
     
